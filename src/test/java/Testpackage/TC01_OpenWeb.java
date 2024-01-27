@@ -43,8 +43,8 @@ public class TC01_OpenWeb
 	 WebElement adminpage = driver.findElement(By.xpath("//*[@id=\"app\"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span"));
 	 adminpage.click();
 	 Thread.sleep(5000);
-	driver.quit();  
+	.quit();  
   }  
-  
+  dfsdfsđf
 
 }
